@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Arsenal&display=swap');
+
+.judul{
+    color: black;
+    text-align: center;
+    background-color: khaki;
+    font-family: Arsenal;
+}
+
+table,tr,td{
+    background-color:khaki ;
+    font-family: Arsenal;
+    color: black;
+    border: 3px solid black;
+    padding: 15px;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+
+.position{
+    text-align: center;
+    position: absolute;
+    margin-left: 320px;
+    margin-right: 0;
+    top: 130px;
+    }
