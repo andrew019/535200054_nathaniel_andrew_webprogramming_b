@@ -1,0 +1,22 @@
+{
+  "name": "535200054_nathaniel_andrew",
+  "version": "1.0.0",
+  "description": "Tugas 9 teori web programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew019/535200054_nathaniel_andrew_webprogramming_b.git"
+  },
+  "author": "Nathaniel Andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrew019/535200054_nathaniel_andrew_webprogramming_b/issues"
+  },
+  "homepage": "https://github.com/andrew019/535200054_nathaniel_andrew_webprogramming_b#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
